@@ -1,2 +1,18 @@
 # Pine-City-Zoo
-A website created using JavaScript, HTML &amp; CSS. It navigates the tourist around the zoo. 
+A responsive, interactive website designed to navigate tourists seamlessly around a virtual zoo layout.
+
+**[Live Demo Link Coming Soon]**
+
+## Features
+* Interactive map layout navigation
+* Responsive design across
+* Elements controlled via JavaScript
+
+## Built with
+**HTML5** - Sematic structure
+**CSS3** - Custom styling and layouts
+**JavaScript** - Interactive navigation functionality
+
+## What I have learned
+I strengthened my understanding of DOM (Document Object Model) manipulation in JavaScript and improved my responsive layout skills using CSS.
+
