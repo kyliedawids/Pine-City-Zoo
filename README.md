@@ -1,7 +1,7 @@
 # Pine-City-Zoo
 A responsive, interactive website designed to navigate tourists seamlessly around a virtual zoo layout.
 
-**[Live Demo Link Coming Soon]**
+**[Live Demo Link](https:github.io)**
 
 ## Features
 * Interactive map layout navigation
